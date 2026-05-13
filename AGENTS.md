@@ -7,8 +7,8 @@
 
 ## Environment
 
-- GitHub Account: https://github.com/tinygc
-- Email: tinygc404@gmail.com
+- GitHub Account: https://github.com/TE-TakashiAMori
+- Email: Takashi.A.Mori@sony.com
 
 ## Development Process
 
